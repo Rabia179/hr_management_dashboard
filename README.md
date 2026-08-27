@@ -1,4 +1,5 @@
 # hr_management_dashboard
+<img width="374" height="1280" alt="WhatsApp Image 2026-08-27 at 10 51 56 AM" src="https://github.com/user-attachments/assets/a7c79083-3b5d-40cb-bf04-881f07fd42a8" />
 
 A new Flutter project.
 
